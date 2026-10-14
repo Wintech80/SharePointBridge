@@ -1,0 +1,15 @@
+{
+  "client_id": "51721409-3565-4919-bcad-5ef90f0634eb",
+  "tenant": "90959cb1-8749-41e2-95d2-618e502fd51a",
+  "sites": ["https://contoso.sharepoint.com/sites/Team"],
+  "host": "127.0.0.1",
+  "port": 8080,
+  "read_only": true,
+  "require_login": true,
+  "username": "bridge",
+  "password": "change-me",
+  "download_threads": 4,
+  "readahead": 3,
+  "readahead_max_mb": 200,
+  "cache_max_gb": 5
+}

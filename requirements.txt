@@ -1,0 +1,6 @@
+wsgidav
+cheroot
+msal
+requests
+pystray
+pillow
